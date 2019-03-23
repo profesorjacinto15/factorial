@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * Clase factorial
+ * Esta clase calcula el factorial de un numero solicitado al usuario
+ */
+
 public class factorial {
     public static int calculo (int n) {
         if (n < 0) {
