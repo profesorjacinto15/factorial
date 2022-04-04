@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 
 /**
+ * Clase que calcula el factorial de un numero
  * @author jacinto
  *
  */
